@@ -1,0 +1,79 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+h3 {
+    color: black;
+}
+
+a {
+    color: blue;
+}
+
+div {
+    background-color: white;
+    border-color: black;
+}
+
+input, select {
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+
+table {
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+
+th, td {
+    border-color: black;
+}
+
+.dash-graph {
+    background-color: white;
+}
+
+/* Remove dark theme for DatePickerSingle */
+.DateInput_input {
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+
+.DateInput_input__focused {
+    border-color: blue;
+}
+
+.DateInput_input__disabled {
+    background-color: lightgray;
+    color: gray;
+}
+
+/* Remove dark theme for Dropdown */
+.Select-control {
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+
+.Select-menu-outer {
+    background-color: white;
+    color: black;
+}
+
+.Select-option {
+    background-color: white;
+    color: black;
+}
+
+.Select-option.is-focused {
+    background-color: lightgray;
+}
+
+.Select-option.is-selected {
+    background-color: blue;
+    color: white;
+}

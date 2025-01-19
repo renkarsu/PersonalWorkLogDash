@@ -1,0 +1,13 @@
+[project]
+name = "personalworklogcopilotstreamlit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dash>=2.18.2",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.3",
+    "plotly>=5.24.1",
+    "streamlit>=1.41.1",
+]
